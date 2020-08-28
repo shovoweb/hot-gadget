@@ -1,0 +1,60 @@
+
+
+.container{
+  margin-bottom: 80px;
+
+}
+.bg-color{
+  background-color: snow;
+  padding: 20px 30px;
+}
+
+.button-design{
+    margin-top: 10px;
+    background-color: black;
+    color: #fff;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 7px;
+}
+
+.see-all{
+  color: orange;
+  margin-right: 50px;
+}
+
+.hr-line{
+  height: 5px;
+  width: 100px;
+  background-color: orange;
+  border-radius: 30px;
+}
+
+.border-design{
+  border-top: none;
+  background-color: #fff;
+}
+
+.box-design{
+  margin-right: 2%;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 7px 7px 30px lightgray;
+}
+.small-box{
+  margin-bottom: 10px;
+  height: 200px;
+  width: 200px;
+  border: none;
+  border-radius: 10px 40px;
+  box-shadow: 7px 7px 30px lightgray;
+  padding:20px 10px 40px 10px;
+}
+
+
+
+.set{
+  width: 400px;
+  height: 300px;
+
+}
